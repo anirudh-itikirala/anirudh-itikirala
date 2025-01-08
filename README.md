@@ -8,9 +8,9 @@
 
 ## About Me
 
-I'm a current freshmnan CS major at Wilmington University passionate about solving everyday problems. I have experience in python, java, and AWS. I have worked on a variety of projects.
+I'm a current freshman CS major at Wilmington University passionate about solving everyday problems. I have worked on a variety of projects with specific experience in Python, Java, and AWS.
 
-When I'm not coding, you can find me playing soccer, working out, or hanging out with my friends and family.
+When I'm not coding, you can find me playing soccer, working out, or hanging out with friends and family.
 
 ## Recent Projects
 
